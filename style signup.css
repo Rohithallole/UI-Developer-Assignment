@@ -1,0 +1,22 @@
+body{
+    font-family: 'Times New Roman';
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+    width: 300 px;
+    margin: 0 auto;
+    background-color: rgb(243, 234, 183);
+    padding: 50 px;
+    border-radius: 5 px;
+    text-align: center;
+}
+
+label{
+    display: block;
+    margin-bottom: 10 px;
+}
